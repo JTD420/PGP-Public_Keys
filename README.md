@@ -6,4 +6,6 @@ https://raw.githubusercontent.com/JTD420/PGP-Public_Keys/master/Brad-PGP-Key.asc
 The above one was last checked and valid 01/06/2019.
 
 Discord Support Server: http://h4xr0x.com
-<iframe src="https://discordapp.com/widget?id=582717280165691412&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+<a href="https://discord.gg/bBa3jUB"><img src="https://discordapp.com/api/guilds/582717280165691412/embed.png" alt="Discord server" /></a>
+(https://discordapp.com/invite/bBa3jUB)
